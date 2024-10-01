@@ -21,7 +21,7 @@ export default config({
           options: {
             image: {
               directory: 'src/assets/images/posts',
-              publicPath: '../../assets/images/posts/',
+              publicPath: '@assets/images/posts/',
             },
           },
         }),
