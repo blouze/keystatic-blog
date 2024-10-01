@@ -5,7 +5,7 @@ export default config({
     kind: 'github',
     repo: {
       owner: "blouze",
-      name: "keystatic-blog-content"
+      name: "keystatic-blog"
     }
   },
   collections: {
